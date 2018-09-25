@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class ParkingLot {
+    public static void main(String[] args){
+        System.out.println("Parking Lot Main");
+    }
 }
